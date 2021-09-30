@@ -17,7 +17,7 @@
 ## Capturas
 
 ![Estructura de la API REST a través de la UI de Swagger](https://github.com/jeanp0/rest-api-fastify-mongodb/blob/main/public/captures/1.png?raw=true)
-![Petición GET exitosa de todos los productos](https://github.com/jeanp0/rest-api-fastify-mongodb/blob/main/public/captures/2.png?raw=true)
+![Petición GET exitosa de todos los productos de la BD](https://github.com/jeanp0/rest-api-fastify-mongodb/blob/main/public/captures/2.png?raw=true)
 
 ## Tutorial
 
